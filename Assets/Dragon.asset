@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaf20e4193a74c089b36b434113dc9f4, type: 3}
+  m_Name: Dragon
+  m_EditorClassIdentifier: 
+  _dragonStruct:
+    _dragonSkin: {fileID: 21300000, guid: 9ddde1d8c9287e1429d0240bf3469f8b, type: 3}
+    _dragon: {fileID: 2815918146002173191, guid: bb7b63d7e6ba1004da5ee9486f77b2bf,
+      type: 3}
+    _speed: 0
+    _force: 0.5
+    _rigidbody: {fileID: 0}
+    _spawnPosition: {x: -3.7, y: -0.5, z: 0}
