@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1496193937517416909}
   - component: {fileID: 465724826635956879}
   - component: {fileID: 7527957654064759095}
+  - component: {fileID: 4559348158937581853}
   m_Layer: 0
   m_Name: drag2n
   m_TagString: Untagged
@@ -101,3 +102,16 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &4559348158937581853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2815918146002173191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fe72e3854914aaeab357c1e5d1f174a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _animator: {fileID: 0}

@@ -23,6 +23,8 @@ namespace DragonFight
             _dragonAccess = _dragonModel._dragonStruct;
             _rigidbody = _dragonAccess._rigidbody;
             _dragonView = _dragonAccess._dragon.GetComponent<DragonView>();
+            _dragonView._dragonController = this;
+            OnMove += _dragonView.HasMoved;
             _isDead = false;
             
 
@@ -35,7 +37,7 @@ namespace DragonFight
             if (Input.GetButton("Fire1"))
             {
                 _dragonAccess._rigidbody.AddForce(new Vector2(0, _dragonAccess._force), ForceMode2D.Impulse);
-                
+                OnMove?.Invoke(true);
             }
         }
 

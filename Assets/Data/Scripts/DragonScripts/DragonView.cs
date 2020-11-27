@@ -6,10 +6,12 @@ namespace DragonFight
     public class DragonView : MonoBehaviour
     {
         [SerializeField] private Animator _animator;
+        public DragonController _dragonController;
 
         private void Start()
         {
             _animator = gameObject.GetComponent<Animator>();
+            
         }
 
         public void HasMoved(bool moved)
