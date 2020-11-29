@@ -19,6 +19,7 @@
             <e p="GameManager.cs" t="Include" />
             <e p="InitializatorController.cs" t="Include" />
             <e p="KnightScipts" t="Include">
+              <e p="Factory.cs" t="Include" />
               <e p="KnightController.cs" t="Include" />
               <e p="KnightData.cs" t="Include" />
               <e p="KnightInitializator.cs" t="Include" />

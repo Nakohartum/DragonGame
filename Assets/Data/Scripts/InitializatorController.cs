@@ -8,9 +8,6 @@ namespace DragonFight
         {
             new DragonInitializator(gameManager, dragonData);
             new KnightInitializator(gameManager, knightData);
-            new KnightInitializator(gameManager, knightData);
-            new KnightInitializator(gameManager, knightData);
-            new KnightInitializator(gameManager, knightData);
         }
     }
 }

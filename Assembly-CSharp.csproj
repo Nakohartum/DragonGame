@@ -68,6 +68,7 @@
      <Compile Include="Assets\Data\Scripts\DragonScripts\IUpdatable.cs" />
      <Compile Include="Assets\Data\Scripts\GameManager.cs" />
      <Compile Include="Assets\Data\Scripts\InitializatorController.cs" />
+     <Compile Include="Assets\Data\Scripts\KnightScipts\Factory.cs" />
      <Compile Include="Assets\Data\Scripts\KnightScipts\KnightController.cs" />
      <Compile Include="Assets\Data\Scripts\KnightScipts\KnightData.cs" />
      <Compile Include="Assets\Data\Scripts\KnightScipts\KnightInitializator.cs" />

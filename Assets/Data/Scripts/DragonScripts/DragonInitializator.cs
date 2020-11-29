@@ -16,7 +16,7 @@ namespace DragonFight
             
             var dragonModel = new DragonModel(dragonStruct);
 
-            dragonModel._dragonStruct._rigidbody = dragonModel._dragonStruct._dragon.AddComponent<Rigidbody2D>();
+            dragonModel._dragonStruct._rigidbody = dragonModel._dragonStruct._dragon.GetComponent<Rigidbody2D>();
             dragonModel._dragonStruct._rigidbody.freezeRotation = true;
             
             gameManager.AddUpdatable(new DragonController(dragonModel));
