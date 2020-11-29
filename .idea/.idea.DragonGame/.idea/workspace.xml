@@ -20,11 +20,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="717a6cb8-ee50-4842-808d-b20c731499ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightInitializator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightInitializator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonInitializator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonInitializator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/InitializatorController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/InitializatorController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/knight/knight.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/knight/knight.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/12/120e331133854006a571ff578d4fbd8d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4f/4f123069683cf4672579635a9840fcab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6c/6c7294d3e6fbd0fcda2a3642f1b9acf4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7f/7fa5239cf961563a81a4b14149a4ce13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a2/a2cb692d4576f8aac349bdb9c5414d78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e7/e7b63172142a730081a642242143ece5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f3/f351a96310c72e969599f6998e88e144" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/8ebfc8-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/8ebfc8-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/96c982-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/96c982-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,10 +74,16 @@
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonData.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonStruct.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/InitializatorController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonInitializator.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonInitializator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightStruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/InitializatorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightInitializator.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" />
       </list>
     </option>
@@ -77,7 +110,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -112,6 +145,7 @@
       <workItem from="1606543996878" duration="49000" />
       <workItem from="1606544069163" duration="265000" />
       <workItem from="1606544360711" duration="74000" />
+      <workItem from="1606661981394" duration="4191000" />
     </task>
     <servers />
   </component>

@@ -23,7 +23,8 @@
     <explicitExcludes>
       <Path>.git</Path>
       <Path>.idea</Path>
-      <Path>ASPRITE</Path>
+      <Path>.vs</Path>
+      <Path>ASePRITE</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>Temp</Path>

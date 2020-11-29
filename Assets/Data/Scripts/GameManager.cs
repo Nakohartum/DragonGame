@@ -3,17 +3,18 @@ using System.Collections.Generic;
 using DragonFight;
 using UnityEngine;
 
-namespace Data.Scripts
+namespace DragonFight
 {
     public class GameManager : MonoBehaviour
     {
         [SerializeField] private DragonData _dragonData;
+        [SerializeField] private KnightData _knightData;
         private List<IUpdatable> _updatables = new List<IUpdatable>();
         
 
         private void Start()
         {
-            new InitializatorController(this, _dragonData);
+            new InitializatorController(this, _dragonData, _knightData);
         }
 
         private void Update()
@@ -21,6 +22,7 @@ namespace Data.Scripts
             for (int i = 0; i < _updatables.Count; i++)
             {
                 _updatables[i].UpdateTick();
+                
             }
         }
 
