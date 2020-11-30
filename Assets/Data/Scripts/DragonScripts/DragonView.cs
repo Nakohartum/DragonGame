@@ -7,7 +7,6 @@ namespace DragonFight
     {
         [SerializeField] private Animator _animator;
         public DragonController _dragonController;
-        
 
         private void Start()
         {
@@ -20,14 +19,6 @@ namespace DragonFight
             if (moved)
             {
                 _animator.Play("dragon");
-            }
-        }
-        
-        public void HasGrounded(bool moved)
-        {
-            if (moved)
-            {
-                _animator.Play("DragonWalk");
             }
         }
     }

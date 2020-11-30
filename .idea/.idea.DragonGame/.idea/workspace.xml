@@ -20,30 +20,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="717a6cb8-ee50-4842-808d-b20c731499ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/Factory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/Factory.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightInitializator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightInitializator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/New Sprite.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/New Sprite.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonInitializator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonInitializator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonView.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/InitializatorController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/InitializatorController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightInitializator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightInitializator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/drag2n.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/drag2n.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Data/knight/knight.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/knight/knight.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/12/120e331133854006a571ff578d4fbd8d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4f/4f123069683cf4672579635a9840fcab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6c/6c7294d3e6fbd0fcda2a3642f1b9acf4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7f/7fa5239cf961563a81a4b14149a4ce13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a2/a2cb692d4576f8aac349bdb9c5414d78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e7/e7b63172142a730081a642242143ece5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f3/f351a96310c72e969599f6998e88e144" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/5ceeb6-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/5ceeb6-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/8ebfc8-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/8ebfc8-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/96c982-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/96c982-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,18 +74,17 @@
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonData.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonStruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonView.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonInitializator.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightStruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/InitializatorController.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightInitializator.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/Factory.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonView.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonInitializator.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" />
       </list>
     </option>
   </component>
@@ -90,8 +97,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34965035" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3006993" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502052" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3002736" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -104,10 +111,10 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
-    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="6556">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="6556" />
+      <option name="pid" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -139,7 +146,6 @@
       <workItem from="1606544069163" duration="265000" />
       <workItem from="1606544360711" duration="74000" />
       <workItem from="1606661981394" duration="4191000" />
-      <workItem from="1606668742379" duration="3942000" />
     </task>
     <servers />
   </component>
@@ -164,78 +170,74 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="746" height="288" key="GridCell.Tab.0.bottom" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.0.bottom" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.0.center" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.0.center" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.0.left" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.0.left" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.0.right" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.0.right" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.1.bottom" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.1.bottom" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.1.center" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.1.center" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.1.left" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.1.left" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.1.right" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.1.right" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.2.bottom" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.2.center" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.2.center" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.2.left" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.2.left" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.2.right" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.2.right" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.3.bottom" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.3.center" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.3.center" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.3.left" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.3.left" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
-    <state width="746" height="288" key="GridCell.Tab.3.right" timestamp="1606674069321">
+    <state width="1493" height="288" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
+    <state width="1493" height="288" key="GridCell.Tab.3.right" timestamp="1606423521566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="288" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1606674069321" />
+    <state width="1493" height="288" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1606423521566" />
     <state x="601" y="114" key="RiderGenerateDialog" timestamp="1606420990920">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="601" y="114" key="RiderGenerateDialog/0.0.1536.824@0.0.1536.824" timestamp="1606420990920" />
-    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog" timestamp="1606672584909">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1606672584909" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606411510108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

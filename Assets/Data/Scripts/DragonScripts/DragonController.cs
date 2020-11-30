@@ -12,9 +12,7 @@ namespace DragonFight
         private Rigidbody2D _rigidbody;
         private DragonView _dragonView;
         private bool _isDead;
-        
         public event Action<bool> OnMove;
-        public event Action<bool> OnGrounded; 
         #endregion
 
         #region Constructor
@@ -27,8 +25,6 @@ namespace DragonFight
             _dragonView = _dragonAccess._dragon.GetComponent<DragonView>();
             _dragonView._dragonController = this;
             OnMove += _dragonView.HasMoved;
-            OnGrounded += _dragonView.HasGrounded;
-            
             _isDead = false;
             
 
@@ -37,14 +33,6 @@ namespace DragonFight
         #endregion
         public void UpdateTick()
         {
-            RaycastHit hit;
-            Ray ray = new Ray(_dragonAccess._dragon.transform.position, Vector3.down);
-            var raycast = Physics.Raycast(ray, out hit, 20.0f);
-            if (raycast)  
-            {
-                Debug.DrawRay(_dragonAccess._dragon.transform.position, Vector3.down, Color.red, 50.0f);
-                OnGrounded?.Invoke(true);
-            }
             
             if (Input.GetButton("Fire1"))
             {

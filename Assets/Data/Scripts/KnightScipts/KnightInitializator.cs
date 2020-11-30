@@ -24,7 +24,14 @@ namespace DragonFight
             knightModel._knightStruct._spriteRenderer =
                 knightModel._knightStruct._knight.GetComponent<SpriteRenderer>();
 
-            
+            if (randomFlip == 1)
+            {
+                knightModel._knightStruct._spriteRenderer.flipX = true;
+            }
+            else
+            {
+                knightModel._knightStruct._spriteRenderer.flipX = false;
+            }
             
             gameManager.AddUpdatable(new KnightController(knightModel));
         }

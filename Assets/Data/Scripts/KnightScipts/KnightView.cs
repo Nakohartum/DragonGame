@@ -7,7 +7,6 @@ namespace DragonFight
     {
         [SerializeField] private Animator _animator;
         private KnightController _controller;
-        public event Action OnHit;
 
         private void Start()
         {
@@ -18,11 +17,6 @@ namespace DragonFight
         {
             _animator.Play("knight");
             
-        }
-
-        private void OnCollisionEnter2D(Collision2D other)
-        {
-           OnHit?.Invoke();
         }
     }
 }

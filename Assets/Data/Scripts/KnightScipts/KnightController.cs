@@ -8,7 +8,7 @@ namespace DragonFight
         #region Fields
 
         private KnightModel _knightModel;
-        public KnightStruct _knightAccessor;
+        private KnightStruct _knightAccessor;
         public event Action OnChange;
         private KnightView _knightView;
 
@@ -18,8 +18,6 @@ namespace DragonFight
             _knightAccessor = _knightModel._knightStruct;
             _knightView = _knightAccessor._knight.GetComponent<KnightView>();
             OnChange += _knightView.Moved;
-            _knightView.OnHit += Hitted;
-
         }
 
         #endregion
@@ -36,18 +34,5 @@ namespace DragonFight
             
             OnChange?.Invoke();
         }
-
-        public void Hitted()
-        {
-            if (_knightAccessor._spriteRenderer.flipX)
-            {
-                _knightAccessor._spriteRenderer.flipX = false;
-            }
-            else
-            {
-                _knightAccessor._spriteRenderer.flipX = true;
-            }
-        }
-        
     }
 }
