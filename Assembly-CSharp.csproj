@@ -66,6 +66,7 @@
      <Compile Include="Assets\Data\Scripts\DragonScripts\DragonView.cs" />
      <Compile Include="Assets\Data\Scripts\DragonScripts\IDieable.cs" />
      <Compile Include="Assets\Data\Scripts\DragonScripts\IUpdatable.cs" />
+     <Compile Include="Assets\Data\Scripts\Factory.cs" />
      <Compile Include="Assets\Data\Scripts\GameManager.cs" />
      <Compile Include="Assets\Data\Scripts\InitializatorController.cs" />
      <Compile Include="Assets\Data\Scripts\KnightScipts\KnightController.cs" />

@@ -16,6 +16,7 @@
               <e p="IDieable.cs" t="Include" />
               <e p="IUpdatable.cs" t="Include" />
             </e>
+            <e p="Factory.cs" t="Include" />
             <e p="GameManager.cs" t="Include" />
             <e p="InitializatorController.cs" t="Include" />
             <e p="KnightScipts" t="Include">

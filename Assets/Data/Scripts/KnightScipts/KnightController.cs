@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using Object = UnityEngine.Object;
 
 namespace DragonFight
 {
@@ -11,6 +12,7 @@ namespace DragonFight
         private KnightStruct _knightAccessor;
         public event Action OnChange;
         private KnightView _knightView;
+        
 
         public KnightController(KnightModel knightModel)
         {
@@ -18,6 +20,7 @@ namespace DragonFight
             _knightAccessor = _knightModel._knightStruct;
             _knightView = _knightAccessor._knight.GetComponent<KnightView>();
             OnChange += _knightView.Moved;
+            _knightView.onDead += Die;
         }
 
         #endregion
@@ -33,6 +36,11 @@ namespace DragonFight
             }
             
             OnChange?.Invoke();
+        }
+
+        public void Die()
+        {
+            Object.Destroy(_knightAccessor._knight);
         }
     }
 }
