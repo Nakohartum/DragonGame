@@ -17,6 +17,6 @@ MonoBehaviour:
     _dragon: {fileID: 2815918146002173191, guid: bb7b63d7e6ba1004da5ee9486f77b2bf,
       type: 3}
     _speed: 0
-    _force: 0.5
+    _force: 0.8
     _rigidbody: {fileID: 0}
     _spawnPosition: {x: -3.7, y: -0.5, z: 0}

@@ -26,20 +26,27 @@ namespace DragonFight
         #endregion
         public void UpdateTick()
         {
-            if (_knightAccessor._spriteRenderer.flipX)
+            if (_knightModel._knightStruct._spriteRenderer != null)
             {
-                _knightAccessor._knight.transform.position += new Vector3(_knightAccessor._speed * -1, 0, 0) * Time.deltaTime;
+                if (_knightAccessor._spriteRenderer.flipX)
+                {
+                    _knightAccessor._knight.transform.position +=
+                        new Vector3(_knightAccessor._speed * -1, 0, 0) * Time.deltaTime;
+                }
+                else
+                {
+                    _knightAccessor._knight.transform.position +=
+                        new Vector3(_knightAccessor._speed, 0, 0) * Time.deltaTime;
+                }
             }
-            else
-            {
-                _knightAccessor._knight.transform.position += new Vector3(_knightAccessor._speed, 0, 0) * Time.deltaTime;
-            }
-            
+
             OnChange?.Invoke();
         }
 
         public void Die()
         {
+            OnChange -= _knightView.Moved;
+            _knightView.onDead -= Die;
             Object.Destroy(_knightAccessor._knight);
         }
     }

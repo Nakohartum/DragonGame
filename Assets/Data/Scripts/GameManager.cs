@@ -38,7 +38,7 @@ namespace DragonFight
         {
             while(true)
             {
-                yield return new WaitForSeconds(1);
+                yield return new WaitForSeconds(5);
                 _factory.Init(_knightData, this);
             }
         }
