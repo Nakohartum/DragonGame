@@ -13,6 +13,7 @@ namespace DragonFight
         private DragonView _dragonView;
         private bool _isDead;
         public event Action<bool> OnMove;
+        public event Action<bool> OnWalk;
         #endregion
 
         #region Constructor
@@ -25,6 +26,7 @@ namespace DragonFight
             _dragonView = _dragonAccess._dragon.GetComponent<DragonView>();
             _dragonView._dragonController = this;
             OnMove += _dragonView.HasMoved;
+            OnWalk += _dragonView.Walk;
             _isDead = false;
             
 
@@ -33,7 +35,7 @@ namespace DragonFight
         #endregion
         public void UpdateTick()
         {
-            
+            Walking();
             if (Input.GetButton("Fire1"))
             {
                 _dragonAccess._rigidbody.AddForce(new Vector2(0, _dragonAccess._force), ForceMode2D.Impulse);
@@ -41,6 +43,19 @@ namespace DragonFight
             }
         }
 
+        public void Walking()
+        {
+            
+            var cast = Physics2D.Raycast(
+                new Vector2(_dragonAccess._dragon.transform.position.x, _dragonAccess._dragon.transform.position.y),
+                Vector2.down, 1.0f);
+            if (cast.transform != null)
+            {
+                OnWalk?.Invoke(true);
+            }
+        }
+        
+        
         public void Die()
         {
             _isDead = true;

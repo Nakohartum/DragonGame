@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using DragonFight;
 using UnityEngine;
 using Object = UnityEngine.Object;
+using Random = UnityEngine.Random;
+
 namespace DragonFight
 {
     public class GameManager : MonoBehaviour
@@ -39,7 +41,7 @@ namespace DragonFight
         {
             while(true)
             {
-                yield return new WaitForSeconds(18);
+                yield return new WaitForSeconds(Random.Range(6, 20));
                 _factory.Init(this, _towerData);
             }
         }
