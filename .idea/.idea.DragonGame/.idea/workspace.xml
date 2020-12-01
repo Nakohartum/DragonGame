@@ -20,43 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="717a6cb8-ee50-4842-808d-b20c731499ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerData.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerData.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerInitializator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerInitializator.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerModel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerView.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Assets TowerBoss/Anime tower.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Assets TowerBoss/Anime tower.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Assets TowerBoss/New Sprite.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Assets TowerBoss/New Sprite.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/knight/Knight.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/knight/Knight.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/tower.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/tower.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/drag2n.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/drag2n.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/knight/knight.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/knight/knight.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/tile_platform.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/tile_platform.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/19/191effd9ffdd132c0bcba24399b56667" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/36/3645e7f235291b16503c2a9fa6424216" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a1/a13c9ae7456400b07c5e9a83131832d7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d4/d4569636c9876a6462d8c18e755ff49d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d4/d4570cd89a616e2c763a477aff9dd566" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/6cfe3e-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/6cfe3e-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/3c504a-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/3c504a-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,25 +53,19 @@
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/IDieable.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/IUpdatable.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonData.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonStruct.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightData.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonInitializator.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightStruct.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightInitializator.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/InitializatorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerStruct.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerModel.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerInitializator.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerView.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" />
       </list>
     </option>
@@ -159,7 +130,6 @@
       <workItem from="1606661981394" duration="4191000" />
       <workItem from="1606739956526" duration="2111000" />
       <workItem from="1606750033470" duration="1340000" />
-      <workItem from="1606840915625" duration="3816000" />
     </task>
     <servers />
   </component>

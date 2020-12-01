@@ -27,14 +27,6 @@
               <e p="KnightStruct.cs" t="Include" />
               <e p="KnightView.cs" t="Include" />
             </e>
-            <e p="TowerScripts" t="Include">
-              <e p="TowerController.cs" t="Include" />
-              <e p="TowerData.cs" t="Include" />
-              <e p="TowerInitializator.cs" t="Include" />
-              <e p="TowerModel.cs" t="Include" />
-              <e p="TowerStruct.cs" t="Include" />
-              <e p="TowerView.cs" t="Include" />
-            </e>
           </e>
         </e>
       </e>
