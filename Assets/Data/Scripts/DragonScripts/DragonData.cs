@@ -2,7 +2,8 @@
 
 namespace DragonFight
 {
-    [CreateAssetMenu(fileName = "Dragon", menuName = "DragonFight", order = 0)]
+    
+    [CreateAssetMenu(fileName = "DragonFight", menuName = "Dragon", order = 0)]
     public class DragonData : ScriptableObject
     {
         [SerializeField] public DragonStruct _dragonStruct;

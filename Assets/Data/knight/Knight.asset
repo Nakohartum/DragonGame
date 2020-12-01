@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Knight
   m_EditorClassIdentifier: 
   _knightStruct:
-    _speed: 0.5
-    _spawn: {x: -2, y: -3.7, z: 0}
+    _speed: 1
+    _spawn: {x: 10.6, y: -3.7, z: 0}
     _knight: {fileID: 3772557257777004635, guid: 2c6b36db38f20974e89dfeb4e70fe350,
       type: 3}
     _spriteRenderer: {fileID: 0}

@@ -20,20 +20,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="717a6cb8-ee50-4842-808d-b20c731499ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerInitializator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerInitializator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerView.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Assets TowerBoss/New Animation.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Assets TowerBoss/New Animation.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/drag2n.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/drag2n.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/knight/knight.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/knight/knight.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/tile_platform.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/tile_platform.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/knight/Knight.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/knight/Knight.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/tower.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/tower.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DragonGame.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DragonGame.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/APIUpdater/project-dependencies.graph" beforeDir="false" afterPath="$PROJECT_DIR$/Library/APIUpdater/project-dependencies.graph" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/04/04a34c0caed1a48d1b018e3553c4b783" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0f/0f671099113ab39c47bfa88e3d22c76e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/12/1251b4a4c0ea0ad91151d309ac4f4221" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/2c/2c5b5a5d6f32e208d589c965b7d96e6d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/46/4677dffea37b7f9ce5ab198e5194f242" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4c/4c4aee64c11ae3c8976016a3233bfa6e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5d/5db6b393ef4bc783ca46670943b07742" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/70/70ebeedfce32a4113abb6e3f7ba8b80a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ba/bab2e14e33142cd2df09a6ec9b6af229" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/PsdPlugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/PsdPlugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Mathematics.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Mathematics.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/6cfe3e-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/6cfe3e-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/3c504a-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/3c504a-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +109,6 @@
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/IDieable.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/IUpdatable.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonModel.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonData.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonStruct.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonView.cs" />
@@ -63,9 +118,16 @@
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightStruct.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightInitializator.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/InitializatorController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerInitializator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerStruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" />
       </list>
     </option>
@@ -130,6 +192,7 @@
       <workItem from="1606661981394" duration="4191000" />
       <workItem from="1606739956526" duration="2111000" />
       <workItem from="1606750033470" duration="1340000" />
+      <workItem from="1606845601545" duration="850000" />
     </task>
     <servers />
   </component>
