@@ -6,6 +6,7 @@
       <e p="Assets" t="Include">
         <e p="Data" t="Include">
           <e p="Scripts" t="Include">
+            <e p="ButtonHandler.cs" t="Include" />
             <e p="DragonScripts" t="Include">
               <e p="DragonController.cs" t="Include" />
               <e p="DragonData.cs" t="Include" />

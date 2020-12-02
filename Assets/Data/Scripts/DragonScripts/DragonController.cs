@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using Object = UnityEngine.Object;
 
 namespace DragonFight
 {
@@ -12,6 +13,7 @@ namespace DragonFight
         private Rigidbody2D _rigidbody;
         private DragonView _dragonView;
         private bool _isDead;
+        
         public event Action<bool> OnMove;
         public event Action<bool> OnWalk;
         #endregion
@@ -58,6 +60,7 @@ namespace DragonFight
         
         public void Die()
         {
+            
             _isDead = true;
             _dragonAccess._dragon.SetActive(false);
         }

@@ -15,6 +15,7 @@ namespace DragonFight
         [SerializeField] private TowerData _towerData;
         [SerializeField] private PlatformData platformData;
         private List<IUpdatable> _updatables = new List<IUpdatable>();
+        
         private Factory _factory;
 
         private void Start()
@@ -71,7 +72,15 @@ namespace DragonFight
         {
             _updatables.Add(_updatable);
         }
+
+        public void PauseTime()
+        {
+            Time.timeScale = 0;
+        }
         
-        
+        public void ResetTime()
+        {
+            Time.timeScale = 1;
+        }
     }
 }

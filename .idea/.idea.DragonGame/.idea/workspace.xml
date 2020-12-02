@@ -21,38 +21,27 @@
   <component name="ChangeListManager">
     <list default="true" id="717a6cb8-ee50-4842-808d-b20c731499ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerInitializator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerInitializator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/tile_platform.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/tile_platform.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/17/172c08414be6ddf6f649e1bdd4767718" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/28/28779146201ad21c2ee798257385150f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/34/340ba451c4805d549b12fbc1f8586d70" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/45/45dec562ef739b1146f14a8b190e9001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/96/96ff8687b9a16f566e90edb70f28805d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ae/aef96e89215a8d25bf1e598a7cefbcf2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b2/b2e2c760d7860371589aa86dc06e60c0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c0/c0f8c1deab1f5ee5e330024174fd787d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c4/c496087299de2e7211f51bd07bb04cb2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c9/c96d6d9a8a256530b5d02355cf2d182c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/db/db007e6074ceca4fe8305b1ed9b0389b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/df/df2d254811155c4fd8789c4c20cd2814" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f8/f8d34231e05a4d18f21f954fc5d7f4c4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fc/fc6b6a12a45e853026c2c69eb3016a45" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fe/fe0d223b92e32058f8c1e450ed591437" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/24/244a41afc5e99dc07e6c4f823a4564da" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/37/3705c0a2da9836f8000a5278694e2a53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/97/979be231e93e88468a504fee1e9aa543" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/97/97e6e3ad3c38982221884608a48d6a43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9b/9b5c0e2ec0785829a855d929b6dce6e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ca/cafdb00e447eab75dd620d6562d74aa5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d3/d33b916308b15466076dc5d661bdce12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e0/e01c0bd161a325663803a3058d986559" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/6cfe3e-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/6cfe3e-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/3c504a-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/3c504a-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
@@ -63,6 +52,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Data/Scripts/ButtonHandler.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -88,7 +80,6 @@
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerStruct.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonView.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/TileScripts/TowerStruct.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/TileScripts/TowerModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/TileScripts/TowerView.cs" />
@@ -103,10 +94,12 @@
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/PlatformSctipts/TowerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/PlatformSctipts/TowerInitializator.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/PlatformSctipts/PlatformView.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerView.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/ButtonHandler.cs" />
       </list>
     </option>
   </component>
@@ -173,6 +166,7 @@
       <workItem from="1606845601545" duration="850000" />
       <workItem from="1606847852167" duration="2329000" />
       <workItem from="1606902647241" duration="4112000" />
+      <workItem from="1606910460630" duration="1911000" />
     </task>
     <servers />
   </component>
@@ -265,6 +259,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="601" y="114" key="RiderGenerateDialog/0.0.1536.824@0.0.1536.824" timestamp="1606420990920" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1606911096319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1606911096319" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606411510108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
