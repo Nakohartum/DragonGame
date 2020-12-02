@@ -27,6 +27,14 @@
               <e p="KnightStruct.cs" t="Include" />
               <e p="KnightView.cs" t="Include" />
             </e>
+            <e p="PlatformSctipts" t="Include">
+              <e p="PlatformController.cs" t="Include" />
+              <e p="PlatformData.cs" t="Include" />
+              <e p="PlatformInitializator.cs" t="Include" />
+              <e p="PlatformModel.cs" t="Include" />
+              <e p="PlatformStruct.cs" t="Include" />
+              <e p="PlatformView.cs" t="Include" />
+            </e>
             <e p="TowerScripts" t="Include">
               <e p="TowerController.cs" t="Include" />
               <e p="TowerData.cs" t="Include" />

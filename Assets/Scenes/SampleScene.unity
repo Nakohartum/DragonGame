@@ -210,7 +210,7 @@ GameObject:
   - component: {fileID: 463972983}
   m_Layer: 0
   m_Name: Destroyer (1)
-  m_TagString: Untagged
+  m_TagString: Destroyer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -228,7 +228,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.5690613, y: -5.195754}
+  m_Offset: {x: 0.5690613, y: -0.6269641}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -239,7 +239,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.1381226, y: 23.36289}
+  m_Size: {x: 2.1381226, y: 32.50047}
   m_EdgeRadius: 0
 --- !u!4 &463972984
 Transform:
@@ -489,6 +489,7 @@ MonoBehaviour:
   _dragonData: {fileID: 11400000, guid: d2982ca2aef71794bb06d1b02c18f8a7, type: 2}
   _knightData: {fileID: 11400000, guid: 961e380c18948a5448fda615d0400668, type: 2}
   _towerData: {fileID: 11400000, guid: 5e7b2ca9119a1e84283b99f9dc3204e7, type: 2}
+  platformData: {fileID: 11400000, guid: 87245e40dc8bbbe4582040a9cb4282a9, type: 2}
 --- !u!4 &859703304
 Transform:
   m_ObjectHideFlags: 0
@@ -1465,6 +1466,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tile_platform (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6597553024197633086, guid: ab304e129a9b28449a61ea1cd913cbe9,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ab304e129a9b28449a61ea1cd913cbe9, type: 3}
 --- !u!1 &2068358878
@@ -1479,7 +1485,7 @@ GameObject:
   - component: {fileID: 2068358879}
   m_Layer: 0
   m_Name: Destroyer
-  m_TagString: Untagged
+  m_TagString: Destroyer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1518,7 +1524,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2068358878}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.03, y: -2.14, z: -0.42216235}
+  m_LocalPosition: {x: -17.4, y: -2.19, z: -0.42216235}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1668,6 +1674,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tile_platform (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6597553024197633086, guid: ab304e129a9b28449a61ea1cd913cbe9,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ab304e129a9b28449a61ea1cd913cbe9, type: 3}
 --- !u!1001 &6597553025434745939
@@ -1680,7 +1691,7 @@ PrefabInstance:
     - target: {fileID: 6597553024197633084, guid: ab304e129a9b28449a61ea1cd913cbe9,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5
+      value: -12.01
       objectReference: {fileID: 0}
     - target: {fileID: 6597553024197633084, guid: ab304e129a9b28449a61ea1cd913cbe9,
         type: 3}
@@ -1736,6 +1747,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tile_platform
+      objectReference: {fileID: 0}
+    - target: {fileID: 6597553024197633086, guid: ab304e129a9b28449a61ea1cd913cbe9,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ab304e129a9b28449a61ea1cd913cbe9, type: 3}

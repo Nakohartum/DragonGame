@@ -75,6 +75,12 @@
      <Compile Include="Assets\Data\Scripts\KnightScipts\KnightModel.cs" />
      <Compile Include="Assets\Data\Scripts\KnightScipts\KnightStruct.cs" />
      <Compile Include="Assets\Data\Scripts\KnightScipts\KnightView.cs" />
+     <Compile Include="Assets\Data\Scripts\PlatformSctipts\PlatformController.cs" />
+     <Compile Include="Assets\Data\Scripts\PlatformSctipts\PlatformData.cs" />
+     <Compile Include="Assets\Data\Scripts\PlatformSctipts\PlatformInitializator.cs" />
+     <Compile Include="Assets\Data\Scripts\PlatformSctipts\PlatformModel.cs" />
+     <Compile Include="Assets\Data\Scripts\PlatformSctipts\PlatformStruct.cs" />
+     <Compile Include="Assets\Data\Scripts\PlatformSctipts\PlatformView.cs" />
      <Compile Include="Assets\Data\Scripts\TowerScripts\TowerController.cs" />
      <Compile Include="Assets\Data\Scripts\TowerScripts\TowerData.cs" />
      <Compile Include="Assets\Data\Scripts\TowerScripts\TowerInitializator.cs" />

@@ -6,6 +6,7 @@ namespace DragonFight
     {
         private Dictionary<string, KnightInitializator> mobFactory;
         private Dictionary<string, TowerInitializator> towerFactory;
+        private Dictionary<string, PlatformInitializator> tileInitializators;
 
         public void Init(KnightData descriptions, GameManager manager)
         {
@@ -27,7 +28,19 @@ namespace DragonFight
 
             };
         }
+        
+        public void Init(GameManager manager, PlatformData towerData)
+        {
 
+            tileInitializators = new Dictionary<string, PlatformInitializator>()
+            {
+                {"tower", new PlatformInitializator(manager, towerData)},
+
+            };
+        }
+        
+        
+        
         public KnightInitializator CreateMobModel(string nameMob)
         {
             return mobFactory[nameMob];

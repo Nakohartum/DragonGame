@@ -22,7 +22,10 @@ namespace DragonFight
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            onDead?.Invoke();;
+            if (other.CompareTag("Destroyer"))
+            {
+                onDead?.Invoke();;
+            }
         }
 
         private void OnCollisionEnter2D(Collision2D other)

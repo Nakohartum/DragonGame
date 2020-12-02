@@ -20,40 +20,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="717a6cb8-ee50-4842-808d-b20c731499ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DragonGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/New Sprite.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/New Sprite.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/drag2n.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/drag2n.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerInitializator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerInitializator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/tile_platform.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/tile_platform.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/20/201976212125c3cc9e54bae33e305fc5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/37/372510434c062d7fd9829e598236760a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/49/49425e4257a710b442a0c3619fe3b9b9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4f/4fc9b881f77552027ac6d700126d8558" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5c/5cb1b611a17127be9407d62efc40c48f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/74/740b8350c5b75f1cfd7a9cc44d3c9bab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/75/754f8919719a2a02e036bfd8415c0f2e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/85/8517c73a7b256e18e4c990b29eb91d58" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/8e/8e5c476cf1ab27eaea467b1c1b2f4f9d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/93/9301a3a3ac404f4ed36cb5109d0d8296" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/94/94828186b28fca6c0f0a4192e679b3e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/99/991ba50064715a82587a325984366181" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a8/a887c122559d61f236f6445bc608a606" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cc/cc91cb7bfddcd8b2b1f204570e69feb3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d7/d7be0df0be43a2900674cc37d55bb8d5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/dc/dc8137966f801135902789a983d81a0a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e0/e0ba98640cb364c60ed94031e16129a7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e9/e91c825d8ffdfde602b97874baa0778e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f0/f0982e8eadd70e89177fa70b907a8b5c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/17/172c08414be6ddf6f649e1bdd4767718" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/28/28779146201ad21c2ee798257385150f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/34/340ba451c4805d549b12fbc1f8586d70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/45/45dec562ef739b1146f14a8b190e9001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/96/96ff8687b9a16f566e90edb70f28805d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ae/aef96e89215a8d25bf1e598a7cefbcf2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b2/b2e2c760d7860371589aa86dc06e60c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c0/c0f8c1deab1f5ee5e330024174fd787d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c4/c496087299de2e7211f51bd07bb04cb2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c9/c96d6d9a8a256530b5d02355cf2d182c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/db/db007e6074ceca4fe8305b1ed9b0389b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/df/df2d254811155c4fd8789c4c20cd2814" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f8/f8d34231e05a4d18f21f954fc5d7f4c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fc/fc6b6a12a45e853026c2c69eb3016a45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fe/fe0d223b92e32058f8c1e450ed591437" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/6cfe3e-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/6cfe3e-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/3c504a-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/3c504a-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,19 +81,32 @@
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightStruct.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightInitializator.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/InitializatorController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightController.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonData.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerInitializator.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerStruct.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerView.cs" />
-        <option value="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonView.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/DragonScripts/DragonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TileScripts/TowerStruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TileScripts/TowerModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TileScripts/TowerView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TileScripts/TowerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TileScripts/TowerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerInitializator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TileScripts/TowerInitializator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/PlatformSctipts/TowerStruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/PlatformSctipts/TowerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/PlatformSctipts/TowerModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/PlatformSctipts/TowerView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/PlatformSctipts/TowerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/PlatformSctipts/TowerInitializator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/Factory.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/PlatformSctipts/PlatformView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/TowerScripts/TowerView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Scripts/KnightScipts/KnightView.cs" />
       </list>
     </option>
   </component>
@@ -158,6 +172,7 @@
       <workItem from="1606750033470" duration="1340000" />
       <workItem from="1606845601545" duration="850000" />
       <workItem from="1606847852167" duration="2329000" />
+      <workItem from="1606902647241" duration="4112000" />
     </task>
     <servers />
   </component>

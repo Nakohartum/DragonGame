@@ -13,6 +13,7 @@ namespace DragonFight
         [SerializeField] private DragonData _dragonData;
         [SerializeField] private KnightData _knightData;
         [SerializeField] private TowerData _towerData;
+        [SerializeField] private PlatformData platformData;
         private List<IUpdatable> _updatables = new List<IUpdatable>();
         private Factory _factory;
 
@@ -23,7 +24,7 @@ namespace DragonFight
             _factory.Init(_knightData, this);
 
             StartCoroutine("TestCoroutine");
-
+            StartCoroutine("TileSpawner");
             StartCoroutine("TowerSpawner");
         }
 
@@ -37,10 +38,20 @@ namespace DragonFight
             }
         }
 
+        IEnumerator TileSpawner()
+        {
+            while (true)
+            {
+                yield return new WaitForSeconds(2);
+                _factory.Init(this, platformData);
+            }
+        }
+        
         IEnumerator TowerSpawner()
         {
             while(true)
             {
+                
                 yield return new WaitForSeconds(Random.Range(6, 20));
                 _factory.Init(this, _towerData);
             }
